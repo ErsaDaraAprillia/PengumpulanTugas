@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(150, 148, 148);
+}
+h1,h2{
+    color: rgb(20, 20, 17);
+    margin-top: auto;    
+}
+div,h1{
+    text-align: center;
+}
+.block{
+    background-color: rgb(86, 86, 218);
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+a:hover{
+    background-color: rgb(86, 86, 133);
+    padding: 5px 10px;
+    width: 70px;
+    height: 30px;
+    display: inline-block;
+    padding: 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+}*/
+.active{
+    color: rgb(231, 29, 29);
+}
+button{
+    background-color: rgb(96, 121, 112);
+    cursor: pointer;
+    border-radius: 5px 5px 5px 5px;
+    border: none;
+    box-shadow: 0px 21px 53px black;
+    width: 60px;
+    height: 30px;
+    color: white;
+}
+button:hover{
+    transition: all ease;
+    background-color: rgb(61, 58, 58);
+}
+table{
+    background-color: rgb(71, 121, 104);
+}
