@@ -1,8 +1,38 @@
 body{
     background-color: rgb(145, 135, 122);
 }  
+p{
+    text-align: center;
+    
+}
 h1{
         color: rgb(49, 18, 18);
         margin-top: auto;
         text-align: center;
+}
+h2{
+    margin-top: auto;
+    text-align: center;
+    padding: 13px;
+    font-family: Cambria;
+    color: #110101;
+}
+div.kuliner{
+    margin: 5px;
+    border: 1px solid #332e2e;
+    float: left;
+    width: 250px;
+    background-color: #cfc1c1;
+}
+div.kuliner:hover{
+    border: 1px solid #1a1818;
+}
+div.kuliner img{
+    width: 250px;
+    height: 250px;
+}
+div.desc{
+    padding: 15px;
+    text-align: center;
+    font-style: italic;
 }
