@@ -23,7 +23,7 @@ a:hover{
     display: inline-block;
     padding: 5px 5px;
     border-radius: 5px 5px 5px 5px;
-}*/
+}
 .active{
     color: rgb(231, 29, 29);
 }
@@ -43,4 +43,19 @@ button:hover{
 }
 table{
     background-color: rgb(71, 121, 104);
+}
+button.kntk{
+    background-color: rgb(40, 46, 44);
+    cursor: pointer;
+    width: 80px;
+    height: 40px;
+}
+a.content:hover{
+    background-color: rgb(31, 31, 70);
+    padding: 5px 10px;
+    width: 80px;
+    height: 40px;
+    display: inline-block;
+    padding: 10px 10px;
+    border-radius: 5px 5px 5px 5px;
 }

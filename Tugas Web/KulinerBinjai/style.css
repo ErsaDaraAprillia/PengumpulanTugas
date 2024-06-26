@@ -21,15 +21,21 @@ div.kuliner{
     margin: 5px;
     border: 1px solid #332e2e;
     float: left;
-    width: 250px;
+    width: 400px;
     background-color: #cfc1c1;
+    padding: 8px;
+    margin-left: 20px;
+    padding-right: 10px;
+    border-radius: 8px;
 }
 div.kuliner:hover{
     border: 1px solid #1a1818;
 }
 div.kuliner img{
-    width: 250px;
-    height: 250px;
+    width: 400px;
+    height: 400px;
+    margin-top: 8px;
+    border-radius: 18px;
 }
 div.desc{
     padding: 15px;
